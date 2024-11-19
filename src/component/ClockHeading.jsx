@@ -1,0 +1,9 @@
+import React from "react";
+
+let ClockHeading =()=>{
+    return(
+        <h1>Bharat Clock</h1>
+    )
+};
+
+export default ClockHeading;
